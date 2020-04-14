@@ -112,3 +112,4 @@ form.submit(button)
   end
 
   start_date = start_date + 1
+end
